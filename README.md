@@ -39,14 +39,12 @@ their name and image.
 ## Screenshots
 
 1. Friend Finder Homepage
-![FriendFinder]()
+<img alt="Friend Finder Homepage" src="/screenshots/homePage.png">
 
 2. Survey Questions Page
-![Survey]()
+<img alt="Survey" src="/screenshots/surveyQuestions.png">
 
-3. Best Match Page
-![FriendMatch]()
+3. Best Match Popup
+<img alt="Best Match Popup" src="/screenshots/bestMatch.png">
 
 
-
-## Acknowledgments
